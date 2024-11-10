@@ -1,0 +1,22 @@
+{
+    "name": "Single Key Keyboard",
+    "vendorId": "0x4C4B",
+    "productId": "0x4643",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 1
+    },
+    "layouts": {
+        "labels": [
+            [
+                "A"
+            ]
+        ],
+        "keymap": [
+            [
+                "0,0"
+            ]
+        ]
+    }
+}
